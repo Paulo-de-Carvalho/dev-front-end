@@ -2,9 +2,26 @@
 
 ## Estrutura Básica
 <br>
-<p align="justify">Para a realização deste desafiador trabalho, foram utilizados elementos de HTML5, alinhado com CSS, para dar uma boa estruturação. Foi utilizado o framework Bootstrap para dar uma melhor acessibilidade. Para a realização deste desafiador trabalho, foram utilizados elementos de HTML5, alinhado com CSS, para dar uma boa estruturação. Foi utilizado o framework Bootstrap para dar uma melhor acessibilidade.</p>
+<p align="justify">Para a realização deste desafiador trabalho, foram utilizados elementos de HTML5, alinhado com CSS, para dar uma boa estruturação. Foi utilizado o framework Bootstrap para dar uma melhor acessibilidade.Foi utilizado um logo na aba do navegador para personalizar a página</p>
 <br><br>
 
 ## Bootstrap
 <br>
-<p align="justified"
+<p align="justify">Foi utilkizado este framework para deixar o ambiente mais agradável e dar uma acessibilidade ao site. foi optado por manter este framework, pois, foi utilizao em aula e está sendo bastante utilizado no momento, a opção mais acertada foi mantê-lo no projeto</p>
+<br><br>
+
+## Sessões
+<br>
+<p align="justify">Foram utiizadas sessões para dividir o conteúdo em temas pertinentes oa que foi proposto para este trabalho. Foi aproveitado o estilo onepage para facilitar a leitura deste conteúdo. Foram utilizados também, como âncora para linkar o menú fixado na parte superior, referenciados nas tags dos menús.</p>
+<br><br>
+
+## Serviços
+<br>
+<p align="justify">Foram descritos nesta sessão, algumas habilidades e trabalhos realizados na área de TI, alguns ficando de fora por nãos er pentinente ao que foi proposto no curso, front-end; a parte de back-end foi supromida. Foi aproveitada a estgrutura fornecida em sala de aula para a formatação do layout na página, se utilizando do recurso online da plataforma Font Awesome</p>
+
+
+
+
+            serv.JPG
+          
+<br><br>
