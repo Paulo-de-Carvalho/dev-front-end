@@ -23,6 +23,6 @@
 <p align="center"> Exemplo de como ficou organizada a Sessão Serviços </p>
 
 <br><br>
-<a href="https://github.com/Paulo-de-Carvalho/dev-front-end/"  traget="_blank" >GitHub do Projeto</a>
+<a href="https://github.com/Paulo-de-Carvalho/dev-front-end/"  target="_blank" >GitHub do Projeto</a>
 <br><br>
-<a href="https://paulo-de-carvalho.github.io/dev-front-end" traget="_blank">Página do GitHub</a>
+<a href="https://paulo-de-carvalho.github.io/dev-front-end" target="_blank">Página do GitHub</a>
