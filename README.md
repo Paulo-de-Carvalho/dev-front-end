@@ -21,7 +21,7 @@
 
 <img src="https://github.com/Paulo-de-Carvalho/dev-front-end/blob/main/img/serv.JPG">
 <p align="center"> 
-  *Exemplo de como ficou organizada a Sessão Serviços* 
+_Exemplo de como ficou organizada a Sessão Serviços_
 </p>
 
 <br><br>
