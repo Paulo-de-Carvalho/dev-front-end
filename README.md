@@ -2,3 +2,4 @@
 
 ## Estrutura Básica
 <br>
+<p align="justified">Para a realização deste desafiador trabalho, foi utukuzado</p>
