@@ -26,3 +26,4 @@
 <a href="https://github.com/Paulo-de-Carvalho/dev-front-end/"  target="_blank" >GitHub do Projeto</a>
 <br><br>
 <a href="https://paulo-de-carvalho.github.io/dev-front-end" target="_blank">Página do GitHub</a>
+<br>
