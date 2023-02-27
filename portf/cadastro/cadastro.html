@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Exercício Aula 10</title>
+	<script type="text/javascript" src="formulario.js"></script>
+	<link rel="stylesheet" type="text/css" href="formulario.css">
+
+	
+</head>
+<body>
+
+	<div id="div-tit">
+		<h1 name="titulo">Música</h1>
+		<p class="linha1">Cadastro de músicas</p><br><br>
+	</div>
+	
+	<fieldset name="cx-1" id="caixa">
+
+		<div id="div1">
+			<form name="form" id="formul" method="post">
+				
+				<ul> <label>Nome da Música:</label><br>
+				<input type="text" name="nome" required id="lb_musica"> </ul>
+
+				<ul><label>Artista:</label><br>
+				<input type="text" name="art" required id="lb_artista"> </ul>
+				<fieldset id="gen" name="fs_gen" > 
+					<h4>Gênero</h4><br>
+					<ul><input type="radio" name="gen_eletr" ><label>Eletrônica</label>
+					</ul> 
+
+					<ul><input type="radio" name="gen_mpb" ><label>MPB</label>
+					</ul> 
+
+					<ul><input type="radio" name="gen_rom" ><label>Romântica</label>
+					</ul> 
+
+					<ul><input type="radio" name="gen_out" ><label>Outras</label>
+					</ul> 
+
+				</fieldset>	
+
+				<ul><label>Ano:</label>
+				<input type="number" class="form-control" name="ano" placeholder="AAAA" id="ano" required min="1900" max="2022"> </ul> 
+
+				<br>
+				<button type="reset" >Limpar</button>
+				<button type="submit" name="cadastra" id="btn_cad">Cadastrar</button>
+			</form>
+		</div>
+
+	</fieldset>
+
+</body>
+</html>
