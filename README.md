@@ -24,3 +24,5 @@
 
 <br><br>
 <a href="https://github.com/Paulo-de-Carvalho/dev-front-end/">GitHub do Projeto</a>
+<br><br>
+<a href="https://paulo-de-carvalho.github.io/dev-front-end">Página do GitHub</a>
