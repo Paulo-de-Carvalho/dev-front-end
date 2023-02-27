@@ -20,8 +20,6 @@
 <p align="justify">Foram descritos nesta sessão, algumas habilidades e trabalhos realizados na área de TI, alguns ficando de fora por nãos er pentinente ao que foi proposto no curso, front-end; a parte de back-end foi supromida. Foi aproveitada a estgrutura fornecida em sala de aula para a formatação do layout na página, se utilizando do recurso online da plataforma Font Awesome</p>
 
 <img src="https://github.com/Paulo-de-Carvalho/dev-front-end/blob/main/img/serv.JPG">
-<p align="center"> 
-_Exemplo de como ficou organizada a Sessão Serviços_
-</p>
+<p align="center"> Exemplo de como ficou organizada a Sessão Serviços </p>
 
 <br><br>
