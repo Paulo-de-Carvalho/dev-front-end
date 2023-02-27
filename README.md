@@ -23,3 +23,4 @@
 <p align="center"> Exemplo de como ficou organizada a Sessão Serviços </p>
 
 <br><br>
+<a href="https://github.com/Paulo-de-Carvalho/dev-front-end/">GitHub do Projeto</a>
